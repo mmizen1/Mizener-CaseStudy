@@ -1,0 +1,3 @@
+Implementation 3 - Gantt Chart
+
+Available on Tableau Public: https://public.tableau.com/views/Gantt_37/ProjectGanttChart
